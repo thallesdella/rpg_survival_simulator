@@ -1,0 +1,30 @@
+Player:
+    - Inventário
+    - Energia
+
+## Survival Simulator
+
+Carlos passou varios anos de sua vida servindo a aeronautica. agora não o fazia mais, ja estava posentado, aproveitando o
+resto da vida em um rancho no alaska.
+Um dia, estava pilotando seu pequeno avião quando uma falha no motor fez ele perder o controle e cair inconciente no
+meio de uma floresta. Quando recobrou a conciencia perbecebeu que...
+
+Floresta
+    - Voce esta em uma clareira. Percebe que um dos destroços preso em um arbusto pode ser vantajoso. Continua olhando
+     em volta e observa um rio e uma caverna. O que voce faz?
+
+    * Pegar destroço no arbusto
+    * Atravessar o rio
+    * Entrar na caverna
+
+Arbusto
+
+
+Caverna
+    - Voce entra na caverna e ve um urso. O que voce faz?
+
+    * Ataca o urso
+    * Foge para a floresta
+    * Deita e chora
+
+Rio
